@@ -8,3 +8,7 @@ x=a+b
 #
 y= a-b
 
+#Division function
+
+x= ab/cd
+
