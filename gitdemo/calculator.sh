@@ -12,3 +12,7 @@ y= a-b
 
 x= ab/cd
 
+# Multiplication
+#
+y= axbxc
+
