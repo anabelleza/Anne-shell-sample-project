@@ -12,3 +12,8 @@ y= a-b
 
 x= ab/cd
 
+# Percentage function
+
+y= 50% of 100
+
+
